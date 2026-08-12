@@ -1,3 +1,5 @@
+
+
 # 🎨 Mon Portfolio Personnel
 
 Site web portfolio moderne et responsive présentant mes compétences et projets.
@@ -25,3 +27,6 @@ Visite le site : [Mon Portfolio](https://asproo0.github.io/mon-portfolio)
 1. Clone le repository
 2. Ouvre `index.html` dans ton navigateur
 3. Profite ! ✨
+
+## 🥚 Easter Egg
+- Essayez le code Konami (`↑↑↓↓←→←→BA`) pour déclencher une surprise !
